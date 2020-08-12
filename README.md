@@ -33,3 +33,8 @@ TO RUN THE PROJECT
 Backend - `php artisan serve`
 
 Frontend- `npm run serve`
+
+## License
+MIT
+
+Thank you. Feel Free contact for any questions
