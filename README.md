@@ -29,5 +29,7 @@ install componser on the backend
 `composer install`
 
 TO RUN THE PROJECT
+
 Backend - `php artisan serve`
+
 Frontend- `npm run serve`
