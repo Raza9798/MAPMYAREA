@@ -15,13 +15,16 @@ This web application has been developed using Vuejs and Laravel. For the web map
 **SETUP PROJECT**
 
 clone the project
+
 `git clone https://github.com/Raza9798/MAPMYAREA.git`
 
 install npm on the FrontEnd
+
 `cd FrontEnd`
 `npm install`
 
 install componser on the backend
+
 `cd severBackend`
 `composer install`
 
