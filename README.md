@@ -28,6 +28,10 @@ install componser on the backend
 `cd severBackend`
 `composer install`
 
+import MySQL DB
+`create a database named mapmyarea`
+`import mapmyarea.sql to DB`
+
 TO RUN THE PROJECT
 
 Backend - `php artisan serve`
